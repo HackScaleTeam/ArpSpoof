@@ -1,7 +1,7 @@
 # arpspoof
 Simple script for arpspoof attack !
 
-#HOW TO USE ! 
+# How to use 
 after installing requirements.txt 
 chmod +x arpsoof.py 
 Run : sudo python3 arpsoof.py -t (target ip address) -s (router ip address)
