@@ -1,5 +1,5 @@
 # arpspoof
-Simple script for arpspoof attack !
+Simple & Fast python script for arpspoofing attack !
 
 # How to use 
 after installing requirements.txt 
