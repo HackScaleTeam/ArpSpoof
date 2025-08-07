@@ -1,7 +1,6 @@
 # **ArpSpoof**  
 **A Python-based ARP Spoofing tool for network security testing**  
 
-![ArpSpoof Banner](https://raw.githubusercontent.com/Zer0Secur8ty/ArpSpoof/main/assets/banner.png) *(Replace with actual image if available)*  
 
 ##  About 
 ArpSpoof is a simple yet powerful tool for conducting **ARP Spoofing** attacks, allowing penetration testers and cybersecurity professionals to intercept and manipulate network traffic. This tool is intended for **educational and security research purposes only**.  
