@@ -4,7 +4,7 @@ import time
 import optparse
 
 arpspoof script spoofing the router & victim 
-Author : ZeroSecurity
+Author : @samx-86
 Data of creation : 2023
 Last modified : 2023
 
