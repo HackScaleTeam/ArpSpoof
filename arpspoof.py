@@ -3,10 +3,10 @@ import scapy.all as scapy
 import time
 import optparse
 
-arpspoof script spoofing the router & victim 
-Author : @samx-86
-Data of creation : 2023
-Last modified : 2023
+#arpspoof script spoofing the router & victim 
+#Author : @samx-86
+#Data of creation : 2023
+#Last modified : 2023
 
 # To get the arguments of the user enter 
 def get_arguments():
