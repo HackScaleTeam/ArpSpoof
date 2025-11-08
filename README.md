@@ -23,7 +23,7 @@ pip install scapy
 
 ###  Clone the repository
 ```bash
-git clone https://github.com/Zer0Secur8ty/ArpSpoof.git
+git clone https://github.com/HackScaleTeam/ArpSpoof.git
 cd ArpSpoof
 ```
 
